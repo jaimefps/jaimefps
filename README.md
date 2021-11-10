@@ -1,4 +1,4 @@
-Software Engineer @ .... [Cypress.io](https://cypress.io)
+Software Engineer @ .... Cypress.io, AWS, Nike
 
 Philosophy MA @ .......... Central European University
 
