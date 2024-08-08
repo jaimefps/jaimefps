@@ -1,5 +1,5 @@
 ```
-Software Engineer ................. [Cypress.io](https://cypress.io), Nike, AWS <br />
-Master of Philosophy .............. Central European University <br />
+Software Engineer ................. Cypress.io, Nike, AWS
+Master of Philosophy .............. Central European University
 Bachelor of Arts in Philosophy .... University of Puerto Rico
 ```
