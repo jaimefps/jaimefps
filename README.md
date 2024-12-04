@@ -1,5 +1,5 @@
 ```
-Software Engineer ................. Cypress.io, Nike, Amazon
+Software Engineer ................. Amazon, Nike, Cypress.io
 Master of Philosophy .............. Central European University
 Bachelor of Arts in Philosophy .... University of Puerto Rico
 ```
